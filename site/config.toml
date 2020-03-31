@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Steve Ivkov Site Cool"
+title = "Steve's Site"
 subtitle="My awesome DS site"
 
 # RSS, categories and tags disabled for an easy start
