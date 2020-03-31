@@ -1,7 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "Steve Ivkov's Site"
+subtitle="My awesome DS site"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
