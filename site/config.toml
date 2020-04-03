@@ -7,4 +7,20 @@ subtitle="My awesome DS site"
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
+
+ [[menu.main]]
+  name = "Home"
+  url  = "/"
+  weight = 0
+
+ [[menu.main]]
+  name = "About"
+  url  = "about"
+  weight = 5
+
+ [[menu.main]]
+  name = "Blog"
+  url  = "post/"
+  weight = 10
+
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
